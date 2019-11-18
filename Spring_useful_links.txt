@@ -1,0 +1,3 @@
+Useful links:https://dzone.com/articles/spring-boot-restful-web-service-complete-example
+https://www.vojtechruzicka.com/spring-boot-admin/
+https://dzone.com/articles/applying-hateoas-to-a-rest-api-with-spring-boot
